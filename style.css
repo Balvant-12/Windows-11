@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding: 0;
+}
+ 
+body {
+    background-image: url('bg.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.taskbar {
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    bottom: 0;
+    height: 48px;
+
+
+}
